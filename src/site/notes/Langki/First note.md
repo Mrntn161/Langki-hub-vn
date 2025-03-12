@@ -3,3 +3,5 @@
 ---
 
 This is my first note
+
+![](https://i.imgur.com/bvc4vq3.png)
