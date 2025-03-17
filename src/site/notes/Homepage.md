@@ -13,7 +13,5 @@ Trước đây, nhiều dạng bài tập này hoặc mất nhiều thời gian 
 
 Để tìm hiểu cách cài đặt Langki, hãy nhấn vào [[Langki Hub (vn)/Bài viết hướng dẫn/01. Cài đặt Langki\|đây]].
 
-> [!note]
-> Langki không phải là một dịch vụ miễn phí. Để sử dụng AI trên Anki, bạn cần đăng ký gói subscription (75k/tháng hoặc 750k/năm). Để biết thêm chi tiết, xin vui lòng truy cập [[Langki Hub (vn)/Phương thức thanh toán\|tại đây]].
 
 
