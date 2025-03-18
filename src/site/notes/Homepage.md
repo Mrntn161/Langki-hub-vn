@@ -11,7 +11,7 @@ Langki được thiết kế với khả năng tùy chỉnh cao, cho phép ngư�
 
 Trước đây, nhiều dạng bài tập này hoặc mất nhiều thời gian để tạo, hoặc không thể thực hiện hiệu quả trên Anki. Ví dụ, các bài tập paraphrase, dịch câu, sửa lỗi sai thường có nhiều đáp án đúng và cần giáo viên phản hồi, thay vì chỉ dựa vào câu trả lời mẫu ở mặt sau của flashcard. Giờ đây, với sự hỗ trợ của AI, người học có thể nhận phản hồi ngay lập tức, tạo ra trải nghiệm học tập tương tác và hiệu quả hơn, thay vì bị giới hạn trong hai mặt thẻ tĩnh của flashcard truyền thống.
 
-Để tìm hiểu cách cài đặt Langki, hãy nhấn vào [[Langki Hub (vn)/Bài viết hướng dẫn/01. Cài đặt Langki\|đây]].
+Để tìm hiểu cách cài đặt Langki, hãy nhấn vào [[Langki Hub (vn)/Bài viết hướng dẫn/1. Cài đặt Langki\|đây]].
 
 
 
