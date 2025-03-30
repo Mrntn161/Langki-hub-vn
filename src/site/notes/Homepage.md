@@ -5,10 +5,13 @@
 ## Langki là gì?
 > A language tool made by a language learner for language learners.
 
-Langki là bộ công cụ hỗ trợ học ngôn ngữ trên Anki (Language + Anki). Bằng cách tích hợp AI vào Anki. 
+Langki là bộ công cụ hỗ trợ học ngôn ngữ trên Anki (Language + Anki). Hãy tưởng tượng Langki như một con dao đa năng Thụy Sĩ (Swiss Army Knife) dành riêng cho việc học ngoại ngữ trên Anki, giúp học từ vựng, nghe, nói, đọc, viết, và ngữ pháp ngay trên Anki. 
+
+![](https://i.imgur.com/Yf5ny4q.png)
+
 
 > [!Note]
-> Hiện tại dư án đang trong giai đoạn beta và sẽ publish trong tháng 4.
+> Hiện tại, dự án đang trong giai đoạn beta và sẽ publish trong tháng 4.
 
 
 
