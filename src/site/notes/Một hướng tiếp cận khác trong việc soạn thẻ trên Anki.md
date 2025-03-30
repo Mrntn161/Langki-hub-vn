@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/mot-huong-tiep-can-khac-trong-viec-soan-the-tren-anki/"}
 ---
 
-Thực ra bài viết này mình tính phải vài hôm nữa mới đăng, nhưng nhân tiện hôm nay có một bạn lên đây gọi vốn để soạn thẻ flashcard, thì mình nghĩ bản thân cần đăng bài này ngay để đưa ra một cách tiếp cận khác. Bởi lẽ cách soạn thẻ truyền thống có rất nhiều nhược điểm.
 
 Thông thường, ít ai nhập từ vựng trực tiếp vào Anki mà thay vào đó, họ sử dụng AI để tạo một file Excel chứa các cột như 'từ', 'từ loại', 'định nghĩa', 'câu ví dụ', v.v. Sau đó, file Excel này được nhập vào Anki, tương ứng với các trường dữ liệu trong ứng dụng. Các trường này tiếp tục được hiển thị dưới dạng HTML và hiển thị trên hai mặt của flashcard.
 
