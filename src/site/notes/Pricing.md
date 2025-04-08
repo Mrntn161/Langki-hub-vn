@@ -13,4 +13,4 @@ Hiện tại, mọi người có thể sử dụng Langki miễn phí. Tuy nhiê
 | Chuyển giọng nói thành văn bản để tương tác với AI (speech to text) | ❌ Không khả dụng.                                               | Không giới hạn.                                              |                                                               |
 
 > [!Buy now]
-> Đăng kí thuê bao tại [đây](https://mrntn161.github.io/Langki/payment.html)
+> Đăng kí thuê bao tại [đây](https://mrntn161.github.io/Langki/payment.html).
