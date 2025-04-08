@@ -10,8 +10,5 @@ Langki là bộ công cụ hỗ trợ học ngôn ngữ trên Anki (Language + A
 ![](https://i.imgur.com/Yf5ny4q.png)
 
 
-> [!Note]
-> Hiện tại, dự án đang trong giai đoạn beta và sẽ publish trong tháng 4.
-
 
 
