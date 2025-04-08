@@ -97,7 +97,7 @@ AI lúc nãy sẽ đọc nội dung trong phần `Prompt`, tạo flashcard và l
 
 ![](https://i.imgur.com/LuhJKaa.png)
 
-Trong một số trường hợp, flashcard mà AI tạo có thể bị lỗi hoặc bị ngu (halluciation), bạn cần cung cấp thêm chú thích cho AI thông qua trường tin `{{Chú thích}}`. Còn không thì cứ để trống.
+Trong một số trường hợp, flashcard mà AI tạo có thể bị lỗi hoặc bị ngáo (halluciation), bạn cần cung cấp thêm chú thích cho AI thông qua trường tin `{{Chú thích}}`. Còn không thì cứ để trống.
 
 ![](https://i.imgur.com/9mZot75.png)
 
