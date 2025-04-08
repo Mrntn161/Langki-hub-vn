@@ -85,7 +85,7 @@ Tương tự tạo một thẻ flashcard theo mẫu trên với từ vựng ch�
 Vì ta cần AI tạo flashcard dưới định dang HTML nên mẫu thẻ ta làm mẫu cho AI cũng phải có định dạng HTML với cú pháp.
 ```html
 <div description="miêu tả đữ liệu ta muốn AI tạo">
-Dữ liệu mẫu (hoặc ...)
+Dữ liệu mẫu
 </div>
 ```
 
