@@ -11,6 +11,3 @@ Hiện tại, bất kì ai cũng có thể sử dụng Langki miễn phí. Tuy n
 | Tốc độ trên server                                                  | Chậm hơn nếu có quá nhiều người dùng miễn phí sử dùng cùng lúc.                                          | Ổn định hơn vì người dùng thuê bao sử dụng một server riêng.                                             |                                          |
 | Chuyển văn bản thành giọng nói (text to speech)                     | [Hàng trăm giọng đọc khác nhau](https://mrntn161.github.io/Langki/text-to-speech.html) cho bạn lựa chọn. | [Hàng trăm giọng đọc khác nhau](https://mrntn161.github.io/Langki/text-to-speech.html) cho bạn lựa chọn. |                                          |
 | Chuyển giọng nói thành văn bản để tương tác với AI (speech to text) | ❌ Không khả dụng.                                                                                        | Không giới hạn.                                                                                          |                                          |
-
-> [!Buy now]
-> Đăng kí thuê bao tại [đây](https://mrntn161.github.io/Langki/payment.html).
