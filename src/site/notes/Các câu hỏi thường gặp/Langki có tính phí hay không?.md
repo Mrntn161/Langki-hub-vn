@@ -12,3 +12,7 @@ Hiện tại, bất kì ai cũng có thể sử dụng Langki miễn phí. Tuy n
 | Chuyển văn bản thành giọng nói (text to speech)                     | [Hàng trăm giọng đọc khác nhau](https://mrntn161.github.io/Langki/text-to-speech.html) cho bạn lựa chọn. | [Hàng trăm giọng đọc khác nhau](https://mrntn161.github.io/Langki/text-to-speech.html) cho bạn lựa chọn. |                                          |
 | Chuyển giọng nói thành văn bản để tương tác với AI (speech to text) | Có hạn mức sử dụng mỗi ngày.                                                                             | Không giới hạn.                                                                                          |                                          |
 | Phân tích giọng nói để kiểm tra phát âm                             | Có hạn mức sử dụng mỗi ngày.                                                                             | Không giới hạn.                                                                                          |                                          |
+
+Đề đăng kí thuê bao bạn vui lòng nhấn vào [đây](https://mrntn161.github.io/Langki/payment.html).
+Sau khi quá trình đăng kí hoàn tất, bạn vui lòng nhập key API thông qua addon Langki.
+![](https://i.imgur.com/gFd9Off.png)
