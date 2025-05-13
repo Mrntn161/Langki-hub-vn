@@ -27,7 +27,7 @@ Trường tin Hint (gợi ý) để bạn nhập gợi ý khi đoạn văn bản
 
 ## Các thiết lập cơ bản
 
-Đọc bài viết sau nếu bạn muốn thay đổi giọng đọc
+Đọc [[Các câu hỏi thường gặp/Làm sao để thay đổi giọng đọc trong Langki?\|bài viết sau]] nếu bạn muốn thay đổi giọng đọc
 Trong template bạn có thể điều chỉnh tốc độ đọc của text-to-speech tại đây 
 
 ![](https://i.imgur.com/7MuOS9k.png)
