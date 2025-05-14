@@ -35,7 +35,7 @@ Bạn cũng có thể sử dụng tính text-to-speech bằng cách bôi đen n�
 
 ## Link down
 
-Tiếng Anh: https://drive.google.com/file/d/1udrS8G97Y7PIMKCwHdZQNYbt98K4rMYg/view?usp=sharing
+Tiếng Anh: https://drive.google.com/file/d/1yZXxoJrswc6J-ZiEWX1wouF1azvs8DI8/view?usp=sharing
 Tiếng Trung: https://drive.google.com/file/d/1udrS8G97Y7PIMKCwHdZQNYbt98K4rMYg/view?usp=sharing
 Tiếng Nhật: https://drive.google.com/file/d/15IIQ8fByVTNXKOgDUburM1rMdylgRVYx/view?usp=sharing
 Tiếng Hàn: https://drive.google.com/file/d/1sKwdAtpPMrF0tuMY39-qVt9aknP3kNS_/view?usp=sharing
