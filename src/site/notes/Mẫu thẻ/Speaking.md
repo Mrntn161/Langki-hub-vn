@@ -30,7 +30,8 @@ Lưu ý: phần câu hỏi không nhất thiết phải là câu hỏi speaking,
 ![](https://i.imgur.com/aag8bDL.png)
 
 Bạn cũng có thể sử dụng tính text-to-speech bằng cách bôi đen nội dung bạn muốn nghe phát âm.
-![[Assets/Pasted image 20250514171807.png\|Assets/Pasted image 20250514171807.png]]
+
+![](https://i.imgur.com/U05ajna.png)
 
 ## Link down
 
